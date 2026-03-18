@@ -6,7 +6,7 @@ Hi, I'm Olu. I'm  a CS grad student who uses data to connect technology to busin
 # *About Me*
 🎓 MS Computer Science @ Western Illinois University (2026–2028)
 
-🔬Researching organizational resilience via digital infrastructure metrics, social media 
+🔬Researching organizational resilience via digital infrastructure metrics, social media, human interaction, etc.
 
 💼 Data Research Analyst @ Cooledtured Collections
 
