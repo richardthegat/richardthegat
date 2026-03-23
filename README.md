@@ -41,7 +41,7 @@ Hi, I'm Olu. I'm  a CS grad student who uses data to connect technology to busin
 
 
 ### 🤖 Multi-Platform NLP Sentiment Intelligence 🔄
-*Python · BERT · RoBERTa · VADER · Statisticall Modeling*
+*Python · BERT · RoBERTa · VADER · Statistical Modeling*
 
 Cross-platform NLP pipeline analyzing sentiment signals across YouTube, Reddit, and X for 30 entertainment titles. Benchmarks VADER, BERT, and RoBERTa to determine whether platform-specific sentiment divergence can predict audience reception.
 
@@ -76,7 +76,7 @@ End-to-end ML system forecasting English Premier League match outcomes from hist
 ---
 
 ### 💾 Cooledtured Database 🔄
-* Python • PostgreSQL • Spreadsheets *
+* Python · PostgreSQL · Spreadsheets *
 
 Constructed two databases for cooledtured with the goal of creating long-term in house data for future financial and Machine Learning modeling with the need for third parties. The first was powered by a python script which scraped Trading Card data across sets and loaded them into a Supabase database.
 The second focused on individual contributions where, if they wish, interns could upload (thorough CSVs) notable, high potential cards. All powered by their own research which and will also be used to modeling.  
